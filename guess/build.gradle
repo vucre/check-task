@@ -41,7 +41,7 @@ afterEvaluate {
 
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'cc.recent.normal.guess'
-                artifactId = 'final'
+                artifactId = 'final-1'
                 version = '1.0'
             }
         }
